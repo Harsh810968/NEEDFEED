@@ -1,8 +1,8 @@
 /* CSS for the main background image */
 body {
     background-image: url("download.jfif");
-    background-size: cover;
-    background-position: center;
+    background-size: Edge 12, Firefox 4, Safari 5, Chrome 3, IE 9, Opera 10;
+    background-position: top;
     background-repeat: no-repeat;
     font-family: Arial, sans-serif;
   }
